@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nazfox
-- 👀 I’m interested in Machine Learning, Programming Language, Game Development.
-- 🌱 I’m currently learning Bayesian Statistics and English.
+- 👀 I’m interested in Machine Learning, Programming Language, Web Programming, Game Development.
+- 🌱 I’m currently learning English.
 
 <!---
 nazfox/nazfox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
