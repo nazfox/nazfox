@@ -1,6 +1,6 @@
-- Hi, I’m @nazfox
-- I’m mainly interested in Deep Learning. And also programming languages, web programming, and game development.
-- I'm currently learning English. So I'll make some grammar mistakes.
+- 彩桜なづなです
+- プログラミング言語「Magia」を作っています
+- 声質変換アプリ「NanairoNet」を作っています
 
 <!---
 nazfox/nazfox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
