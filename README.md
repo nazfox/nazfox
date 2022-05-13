@@ -1,6 +1,18 @@
-- 彩桜なづなです
-- プログラミング言語「Magia」を作っています
-- 声質変換アプリ「NanairoNet」を作っています
+# 彩桜なづな
+
+<img src="nazuna.webp" alt="彩桜なづな" height=500>
+
+website: https://nazfox.ch
+
+## 主に作っているもの
+
+- ボイスチェンジャー なな彩Net (NanairoNet)
+- プログラミング言語 Magia
+
+## そのうちやりたいこと
+
+- Magia で Fediverse サーバー作りたい
+- 今はまっさらな InfinityGarden を Magia で彩りたい
 
 <!---
 nazfox/nazfox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
