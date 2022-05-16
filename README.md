@@ -6,8 +6,8 @@ website: https://nazfox.ch
 
 ## 主に作っているもの
 
-- ボイスチェンジャー "なな彩Net (NanairoNet)"
-- プログラミング言語 "Magia"
+- ボイスチェンジャー: なな彩 (Nanairo)
+- プログラミング言語: Magia
 
 ## そのうちやりたいこと
 
