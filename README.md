@@ -1,6 +1,6 @@
 # 彩桜なづな
 
-<img src="nazuna.webp" alt="彩桜なづな" height=500>
+<img src="nazuna.webp" width="500" />
 
 website: https://nazfox.ch
 
