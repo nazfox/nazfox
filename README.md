@@ -9,11 +9,6 @@ website: https://nazfox.ch
 - ボイスチェンジャー: なな彩 (Nanairo)
 - プログラミング言語: Magia
 
-## そのうちやりたいこと
-
-- Magia で Fediverse サーバー作りたい
-- 今はまっさらな InfinityGarden を Magia で彩りたい
-
 <!---
 nazfox/nazfox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
